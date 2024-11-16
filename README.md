@@ -1,5 +1,7 @@
 Foottsepnet journal documentation code
+
 Author : Maulana Ikhsan
+
 NRP : 5025241163
 
 This code is just an approach to the actual algorithm made by Rhoban team, it can works but not as good as the original one
