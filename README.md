@@ -1,5 +1,4 @@
 Foottsepnet journal documentation code
-
 Author : Maulana Ikhsan
 NRP : 5025241163
 
